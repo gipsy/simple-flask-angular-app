@@ -1,0 +1,19 @@
+{
+	"baseName": "myapp",
+	"entities": [
+		{
+			"name": "myentity",
+			"attrs": [
+				{
+					"attrName": "myattr",
+					"attrType": "String",
+					"minLength": "",
+					"maxLength": "10",
+					"enumValues": [],
+					"required": true
+				}
+			]
+		}
+	],
+	"resources": []
+}
